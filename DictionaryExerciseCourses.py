@@ -26,8 +26,9 @@ CourseInformation = {
         'Meeting Time': '1:00 p.m.'
     }
 }
-
-course_num = input('What course number are you inquiring about?')
+print()
+print()
+course_num = input('What course number are you inquiring about?  ')
 print()
 
 print('Course Number: ', course_num)
